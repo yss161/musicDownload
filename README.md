@@ -12,7 +12,7 @@
  <a href="https://github.com/yss161/musicDownload/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/yss161/musicDownload"></a>
  <a><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yss161/musicDownload?style=flat"></a>
  <a><img alt="GitHub forks" src="https://img.shields.io/github/forks/yss161/musicDownload?style=flat"></a>
- <a><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/yss161/musicDownload/total"></a>
+ <a><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/yss161/musicDownload/total?cacheSeconds=3600"></a>
  <a><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/yss161/musicDownload?style=flat"></a>
 
 </p>
