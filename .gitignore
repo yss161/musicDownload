@@ -1,0 +1,9 @@
+/.musicdl_temp
+/build
+/dist
+/*.spec
+/venv
+__pycache__/
+/musicdl_outputs
+/musicdownload_config.json
+/.mimosa
